@@ -1,0 +1,49 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem
+    line-height: 1.5;
+}
+
+#title {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+#padding-issue {
+    padding: 3% 15%;
+}
+
+#iphone-dog {
+    transform: rotate(25deg);
+    width: 60%;
+}
+
+/* Navigation Bar */
+
+#navbar-issue {
+    padding-bottom: 4.5rem;
+}
+
+.navbar-brand {
+    font-family: "Ubuntu";
+}
+
+#brand-issue {
+    font-size: 2.5rem;
+}
+
+#item-issue {
+    padding: 0 18px;
+    font-size: 1.2rem;
+    font-family: "Ubuntu"
+}
+
+/* Download Buttons */
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
